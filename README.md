@@ -1,1 +1,17 @@
-# thp-w9d4-Coppa-Gabana_design
+# Coppa & Gabana design
+
+## Design Guidelines
+
+## Lofi Wireframes
+
+##  Hifi Mockups
+
+## Titles
+
+## Text field
+
+## Navbar & Footer
+
+## Buttons
+
+## Countdown
