@@ -1,5 +1,7 @@
 # Coppa & Gabana design
 
+link Figma: https://www.figma.com/design/CKeCbtWXkQQJw1mr5cuTqJ/Coppa-%26-Gabbana?t=EIu7umWaqRGIsEeg-0
+
 ## Design Guidelines
 ![Designs guidelines](https://github.com/valentin-orrit/thp-w9d4-Coppa-Gabana_design/assets/107938238/d4d7129f-a121-4f46-bf31-008b3bff778a)
 
